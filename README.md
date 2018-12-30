@@ -1,4 +1,4 @@
----
+>
 
 最近在做一个企业信用信息大数据的项目，系统的架构大概是这样的：使用elasticsearch对用户输入的搜索关键字进行检索，并在网页上以列表的方式展示检索到结果，当用户点击列表中的检索结果记录后，会跳转到企业信用详情信息页面，企业信用详情信息是从MongoDB里面读取的。
 
@@ -10,7 +10,6 @@ https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html
 
 ![elasticsearch权威指南.jpg](https://upload-images.jianshu.io/upload_images/12273007-b2d3983c07813ede.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
----
 
 ###  elasticsearch及kibana的安装和配置
 
